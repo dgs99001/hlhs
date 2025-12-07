@@ -130,12 +130,12 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
     url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
   },
-   {
+ {
     id: 19,
-    name: "28圈",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg",
-    url: "https://45.114.105.123:7788/#/link?allwin=9437468",
+    name: "C7娱乐 ",
+    description: "首存100+100",
+    iconUrl: "https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg",
+    url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
   },
 ];
 

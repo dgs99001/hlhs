@@ -122,13 +122,6 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg",
     url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
   },
-      {
-    id: 18,
-    name: "豪门国际", 
-    description: "首存100+100", 
-    iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f6.webp",
-    url: "https://nvjmce.hfjcl.com/app/register.php?site_id=1008&topId=2610410",
-  },
     {
     id: 19,
     name: "NG28",
